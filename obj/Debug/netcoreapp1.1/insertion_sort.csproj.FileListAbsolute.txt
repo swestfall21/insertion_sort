@@ -1,0 +1,8 @@
+C:\temp\corepg\insertion_sort\bin\Debug\netcoreapp1.1\insertion_sort.deps.json
+C:\temp\corepg\insertion_sort\bin\Debug\netcoreapp1.1\insertion_sort.runtimeconfig.json
+C:\temp\corepg\insertion_sort\bin\Debug\netcoreapp1.1\insertion_sort.runtimeconfig.dev.json
+C:\temp\corepg\insertion_sort\bin\Debug\netcoreapp1.1\insertion_sort.dll
+C:\temp\corepg\insertion_sort\bin\Debug\netcoreapp1.1\insertion_sort.pdb
+C:\temp\corepg\insertion_sort\obj\Debug\netcoreapp1.1\insertion_sort.AssemblyInfo.cs
+C:\temp\corepg\insertion_sort\obj\Debug\netcoreapp1.1\insertion_sort.dll
+C:\temp\corepg\insertion_sort\obj\Debug\netcoreapp1.1\insertion_sort.pdb
